@@ -62,3 +62,5 @@ __MACOSX/
 *.png
 
 *.tex
+
+\.ipynb_checkpoints/investigate-a-dataset-checkpoint\.ipynb
